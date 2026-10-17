@@ -39,4 +39,4 @@ servidor ni sitio publicado. Se despliega cargando los sketches en las placas de
 - [CLAUDE.md](CLAUDE.md): guía para trabajar el repo con Claude Code.
 
 ## Licencia
-Licencia a definir. Hasta que se defina, rigen los derechos de autor por defecto.
+Distribuido bajo licencia MIT, ver [LICENSE](LICENSE).
